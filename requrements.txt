@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-requests
-aiogram
-dotenv
-asyncpg
